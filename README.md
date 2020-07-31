@@ -1,5 +1,6 @@
 # GLAT
 Social Network using Augmented Reality
+
 An android application where messages can be tagged onto any
 object in the environment. A tag would comprise of geolocation,
 object identifiers and other sensor data.
